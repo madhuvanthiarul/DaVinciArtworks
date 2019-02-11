@@ -1,0 +1,73 @@
+#background{
+	background-image:url("bg1.jpg");
+	background-repeat:no-repeat;
+	width:100%;
+	background-color:#fdbe64;
+}
+h1{
+	font-family:Blackadder ITC;
+	font-size:70px;
+	color:rgb(255,17,118);
+}
+.bg1
+{
+	background-color:rgb(253,192,122);
+}	
+#pgname
+{
+	font-family:Blackadder ITC;
+	font-size:40px;
+	color:rgb(163,33,190);
+}
+
+#logo
+{
+	height:27%;
+	width:13%;
+	float:left;
+}
+#navy{
+	border: 1.5px solid rgb(187,30,9);
+	background-color:rgb(246,110,19);
+	height:12%;
+	width:85%;
+	margin-top:-50px;
+	margin-left:90px;
+	border-radius:15px;
+}
+li 
+{
+  float:left;
+  
+}
+li,a
+{
+	color: #ffffff;
+	font-size:20px;
+  padding: 15px 15px;
+}
+#footer
+{
+	background-color:rgb(252,240,157);
+	height:50%%;
+	width:100%;
+	
+	left:0px;
+	bottom:0px;
+	
+}
+#sm{
+	text-decoration:underlined;
+	color:blue;
+	
+}
+#copyr{
+	margin-left:550px;
+text-align:center;
+color:gray;
+}
+a:hover
+{
+	color:black;
+	
+}
